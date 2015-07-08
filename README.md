@@ -28,7 +28,6 @@ A nonstop flowview include flickr, tumblr & news etc. Just like Flipboard
 - galleries api
 - photos api
 - photos.comments api
-- 
 - [Objectiveflickr] (https://github.com/lukhnos/objectiveflickr)
 
 
