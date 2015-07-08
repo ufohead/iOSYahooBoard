@@ -20,7 +20,7 @@ A nonstop flowview include flickr, tumblr & news etc. Just like Flipboard
 - Request-token URL   http://www.tumblr.com/oauth/request_token
 - Authorize URL   http://www.tumblr.com/oauth/authorize
 - Access-token URL    http://www.tumblr.com/oauth/access_token
-
+- [TMTumblrSDK](http://cocoapods.org/pods/TMTumblrSDK)
 ####Fliker 
 
 - https://www.flickr.com/services/api/
